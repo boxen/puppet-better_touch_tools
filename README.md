@@ -14,5 +14,4 @@ include better_touch_tools
 
 ## Development
 
-Write code. Run `script/cibuild` to test it. Check the `script`
-directory for other useful tools.
+Write code. Run `script/cibuild` to test it. Check the `script` directory for other useful tools.
