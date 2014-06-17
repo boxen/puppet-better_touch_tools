@@ -5,7 +5,7 @@
 #
 #   include better_touch_tools
 class better_touch_tools {
-  package { 'Better Touch Tools':
+  package { 'BetterTouchTool':
     source   => 'http://www.boastr.de/BetterTouchTool.zip',
     provider => 'compressed_app'
   }
